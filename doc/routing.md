@@ -48,7 +48,7 @@ editor route.
 You have a "user" collection, and
 you set up a [scope provider](scopes.md) to have a separate scope for each user, and
 you want an editor where a user can edit their own settings. You need to set up your
-scope provider to return the currently logged in user's scope as default. You won't need
+scope provider to return the currently logged-in user's scope as default. You won't need
 the scope search functionality, since on this route the user can edit only their own
 scope:
 
